@@ -1,6 +1,6 @@
 # Marcus Paula — Perfil Profissional
 
-**CEO & Fundador — M7M Digital | Engenheiro de TI & Segurança Cibernética | Ex-TikTok EMEA**
+**CEO & Fundador — M7M Digital | Engenheiro de TI & Segurança Cibernética | TikTok EMEA**
 **20+ anos de experiência** | Brasil · Irlanda · Geórgia · Ásia
 
 ---
@@ -224,3 +224,4 @@ Atualmente focado na **M7M Digital**. Aberto a parcerias, consultorias e projeto
 ---
 
 *Marcus Paula | CEO — M7M Digital | github.com/Maikmax*
+
