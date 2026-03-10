@@ -10,7 +10,7 @@
 ```
 MARCUS PAULA
 CEO & Fundador — M7M Digital | www.m7mdigital.com
-Engenheiro de TI & Cyber Security | Ex-TikTok EMEA | 20 anos de carreira
+Engenheiro de TI & Cyber Security | TikTok EMEA | 20 anos de carreira
 Garuva, SC, Brasil · Dublin, Irlanda · Geórgia · Ásia
 ```
 
@@ -167,7 +167,7 @@ Technological University Dublin (TU Dublin), 2017–2018
 | Período | Cargo | Empresa | Local |
 |---------|-------|---------|-------|
 | 2024–presente | CEO & Fundador | M7M Digital | Brasil · Irlanda · Geórgia |
-| 2022–2024 | EMEA IT Engineer | TikTok / ByteDance | Dublin, Irlanda |
+| 2022–presente | EMEA IT Engineer | TikTok / ByteDance | Dublin, Irlanda |
 | 2020–2021 | Consultor Freelance Cyber Security | Autônomo | Dublin, Irlanda |
 | 2019–2021 | Security Officer | Provincial / Facebook / Ford | Irlanda |
 | 2012–2020 | Engenheiro de Infraestrutura de TI | Academic Bridge | Dublin, Irlanda |
