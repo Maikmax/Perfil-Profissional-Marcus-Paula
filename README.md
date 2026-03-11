@@ -48,7 +48,7 @@ Fundador e gestor da **M7M Digital** — agência de marketing digital com prese
 
 ---
 
-## Experiência Anterior — TikTok / ByteDance, EMEA IT Engineer *(2022–2024)*
+## Experiência Anterior — TikTok / ByteDance, EMEA IT Engineer *(2022–presente)*
 
 Responsável pela gestão de **5.000+ dispositivos** em toda a região EMEA — Dublin, Madrid, Milão, Londres, Suécia, Espanha e Itália.
 
@@ -224,4 +224,5 @@ Atualmente focado na **M7M Digital**. Aberto a parcerias, consultorias e projeto
 ---
 
 *Marcus Paula | CEO — M7M Digital | github.com/Maikmax*
+
 
